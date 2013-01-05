@@ -2077,4 +2077,11 @@ var MicroJS = [
     url: "https://github.com/bahamas10/preloadimages.js",
     source: "https://raw.github.com/bahamas10/preloadimages.js/master/preloadimages.js"
   }
+  {
+    name: "AmI",
+    tags: ["helper", "environment", "utility", "mobile", "node", "browser"],
+    description: "A small library that helps developers determine the environment their code is running in",
+    url: "https://github.com/TheEskhaton/AmI",
+    source: "https://raw.github.com/TheEskhaton/AmI/master/AmI.js" 
+  }
 ];
